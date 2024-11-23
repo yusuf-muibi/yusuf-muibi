@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back End Engineer (AI Engineer)
 -------------------------------
 
-I am currently an ALX Software Engineering student aspiring to become an AI Engineer.
+I am an ALX Software Engineering graduate aspiring to become an AI Engineer.
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [muibiyusuf@hotmail.com](mailto:muibiyusuf@hotmail.com)
-*   🧠  I'm learning Python
+*   🧠  I'm skilled in Python, and Node.js
 *   🤝  I'm open to collaborating on Projects that will aid my learning
 *   ⚡  I am a professional Technical Support Engineer with years of active work experience.### Skills 
 <p align="left">
