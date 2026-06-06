@@ -1,16 +1,49 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yusuf
-=============================================================================================================================
+# Yusuf Muibi
 
-Back End Engineer (AI Engineer)
--------------------------------
+**Operations & Infrastructure Analyst · AI-Driven Automation · Backend Engineering**  
+Lagos, Nigeria · [LinkedIn](https://www.linkedin.com/in/yusufmuibi) · muibiyusuf@hotmail.com
 
-I am an ALX Software Engineering graduate aspiring to become an AI Engineer.
+---
 
-*   🌍  I'm based in Lagos, Nigeria
-*   ✉️  You can contact me at [muibiyusuf@hotmail.com](mailto:muibiyusuf@hotmail.com)
-*   🧠  I'm skilled in Python, and Node.js
-*   🤝  I'm open to collaborating on Projects that will aid my learning
-*   ⚡  I am a professional Technical Support Engineer with years of active work experience.### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                    </p>
+I work at the intersection of infrastructure operations, data, and technology — and I find that's where the most interesting problems live.
+
+By day, I manage operational analytics and energy performance across 500+ telecom network sites at IHS Towers. My job is to turn complex operational data into decisions: reducing fuel discrepancies, cutting resolution times, and building the reporting infrastructure that helps leadership act faster and smarter.
+
+By night, I build the tools that make that work better.
+
+---
+
+### What I'm working on
+
+**Project ORCA** — an internal AI-driven automation initiative I lead at IHS Towers, targeting manual operational inefficiencies across large-scale infrastructure management. Think anomaly detection, automated reporting pipelines, and AI-generated operational briefings. Built with Python, LLM APIs, and a lot of real-world operational context.
+
+---
+
+### Technical stack
+
+```
+Languages     Python · SQL · REST APIs
+Engineering   Backend development · IoT systems · Cloud (AWS)
+Data          Operational analytics · Performance dashboards · Data pipelines
+AI/Automation LLM integration · Workflow automation · Anomaly detection
+```
+
+---
+
+### Background
+
+- Analyst, Energy Management Operations — **IHS Towers**
+- AI Software Engineer — **Ace Embedded Ltd**
+- Software Engineering training — **ALX**
+- BSc Computer Science — **LAUTECH**
+- Executive MBA, Data Science Management — **Rome Business School** *(in progress)*
+
+---
+
+### What I'm building toward
+
+Operations intelligence and AI-driven infrastructure management. The long-term goal is technology leadership — building systems and teams that make large-scale operations smarter, faster, and more resilient.
+
+---
+
+*Currently building the portfolio that proves it. Watch this space.*
